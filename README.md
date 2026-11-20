@@ -26,4 +26,4 @@ Trong bối cảnh quản trị rủi ro tín dụng, việc nhận diện sớm
 
 ## Cách chạy lại
 
-Mở file `Default_of_credit_card_clients.ipynb` trong repository trên Google Colab, sau đó chạy tuần tự các cell từ trên xuống dưới.
+Mở file `Copy_of_default_of_credit_card_clients.ipynb` trong repository trên Google Colab, sau đó chạy tuần tự các cell từ trên xuống dưới.
